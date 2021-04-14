@@ -13,4 +13,4 @@
 - 两种模式：练习模式、娱乐模式
 - 学习路线：字根 -> 简码 -> 词组 -> 文章
 
-![img](https://github.com/xjh093/xjh093/blob/main/qrcode.png)
+![img](https://github.com/xjh093/xjh093/blob/main/qrc.png)
