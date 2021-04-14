@@ -21,4 +21,4 @@
 
 而不是在 2 个应用之间频繁切换。
 
-![img](https://github.com/xjh093/xjh093/blob/main/qrc.png)
+![img](https://github.com/xjh093/xjh093/blob/main/qrcxwubi.png) ![img](https://github.com/xjh093/xjh093/blob/main/qrcxnote.png)
