@@ -11,7 +11,7 @@
 简介：
 - 两个版本：86 版和 98 版
 - 两种模式：练习模式、娱乐模式
-- 学习路线：字根 -> 简码 -> 词组 -> 文章
+- 学习路线：字根 -> 简码 -> 词组 -> 文章     
 
 ##### 我的作品：小笔记-XNote
 
@@ -21,4 +21,4 @@
 
 而不是在 2 个应用之间频繁切换。
 
-![img](https://github.com/xjh093/xjh093/blob/main/qrcxwubi.png) ![img](https://github.com/xjh093/xjh093/blob/main/qrcxnote.png)
+<img src="https://github.com/xjh093/xjh093/blob/main/qrcxwubi.png" width = "200" height = "200"/> <img src="https://github.com/xjh093/xjh093/blob/main/qrcxnote.png" width = "200" height = "200"/>
