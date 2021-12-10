@@ -8,7 +8,7 @@
 
 另外还有微信小程序 `XWubi`
 
-以及配套的学习教程：[五笔学习](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAwMDQ4OTE5Nw==&action=getalbum&album_id=1789127674695598085&scene=173&from_msgid=2457840578&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
+以及配套的学习教程：[五笔学习](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAwMDQ4OTE5Nw==&action=getalbum&album_id=1789127674695598085&scene=173&from_msgid=2457840578&from_itemidx=1&count=3&nolastread=1#wechat_redirect) (总共 26 篇)
 
 最快的小伙伴，只用`1`天时间就学会了 :)
 
