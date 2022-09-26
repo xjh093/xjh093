@@ -34,4 +34,4 @@
 汉字入门学习
 
 
-<img src="https://github.com/xjh093/xjh093/blob/main/qrcxwubi.png" width = "200" height = "200"/> <img src="https://github.com/xjh093/xjh093/blob/main/qrcxnote.png" width = "200" height = "200"/> <img src="https://github.com/xjh093/xjh093/blob/main/qrcodexcomp.png" width = "200" height = "200"/> <img src="https://github.com/xjh093/xjh093/blob/main/qrcodexcomp.png" width = "200" height = "200"/>
+<img src="https://github.com/xjh093/xjh093/blob/main/qrcxwubi.png" width = "200" height = "200"/> <img src="https://github.com/xjh093/xjh093/blob/main/qrcxnote.png" width = "200" height = "200"/> <img src="https://github.com/xjh093/xjh093/blob/main/qrcodexcomp.png" width = "200" height = "200"/> <img src="https://github.com/xjh093/xjh093/blob/main/%E5%B0%8F%E6%B1%89%E5%AD%97-XHanzi.png" width = "200" height = "200"/>
