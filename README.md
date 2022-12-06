@@ -2,7 +2,7 @@
 
 ---
 
-##### 我的作品：XWubi
+### 我的作品：XWubi
 
 五笔输入法学习 APP
 
@@ -17,7 +17,9 @@
 - 两种模式：练习模式、娱乐模式
 - 学习路线：字根 -> 简码 -> 词组 -> 文章     
 
-##### 我的作品：小笔记-XNote
+---
+
+### 我的作品：小笔记-XNote
 
 做笔记的 APP
 
@@ -25,13 +27,21 @@
 
 而不是在 2 个应用之间频繁切换。
 
-##### 我的作品：小编辑器-XCompiler
+---
+
+### 我的作品：小编辑器-XCompiler
 
 一款小巧的在线编译器
 
-##### 我的作品：小汉字-XHanzi
+包含多种编程语言
+
+---
+
+### 我的作品：小汉字-XHanzi
 
 汉字入门学习
+
+包含一级字表，二级字表，总计 6000+ 汉字
 
 
 <img src="https://github.com/xjh093/xjh093/blob/main/qrcxwubi.png" width = "200" height = "200"/> <img src="https://github.com/xjh093/xjh093/blob/main/qrcxnote.png" width = "200" height = "200"/> <img src="https://github.com/xjh093/xjh093/blob/main/qrcodexcomp.png" width = "200" height = "200"/> <img src="https://github.com/xjh093/xjh093/blob/main/%E5%B0%8F%E6%B1%89%E5%AD%97-XHanzi.png" width = "200" height = "200"/>
