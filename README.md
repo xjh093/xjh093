@@ -43,5 +43,18 @@
 
 包含一级字表，二级字表，总计 6000+ 汉字
 
+---
 
-<img src="https://github.com/xjh093/xjh093/blob/main/qrcxwubi.png" width = "200" height = "200"/> <img src="https://github.com/xjh093/xjh093/blob/main/qrcxnote.png" width = "200" height = "200"/> <img src="https://github.com/xjh093/xjh093/blob/main/qrcodexcomp.png" width = "200" height = "200"/> <img src="https://github.com/xjh093/xjh093/blob/main/%E5%B0%8F%E6%B1%89%E5%AD%97-XHanzi.png" width = "200" height = "200"/>
+### 我的作品：小挑战-XGame
+
+一些有点挑战的小游戏
+
+拼图游戏，渐变色游戏等等
+
+---
+
+
+<img src="https://github.com/xjh093/xjh093/blob/main/qrcxwubi.png" width = "200" height = "200"/> <img src="https://github.com/xjh093/xjh093/blob/main/qrcxnote.png" width = "200" height = "200"/> <img src="https://github.com/xjh093/xjh093/blob/main/qrxcomp.png" width = "200" height = "200"/> 
+
+<img src="https://github.com/xjh093/xjh093/blob/main/%E5%B0%8F%E6%B1%89%E5%AD%97-XHanzi.png" width = "200" height = "200"/> <img src="https://github.com/xjh093/xjh093/blob/main/qrxgame.png" width = "200" height = "200"/>
+
